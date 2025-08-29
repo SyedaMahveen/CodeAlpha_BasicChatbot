@@ -61,3 +61,4 @@ Tested program with multiple inputs
 
 OUTPUT:
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9fdaf7d0-3896-4fa4-85b8-a47d5a1098ce" />
